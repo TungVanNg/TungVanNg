@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Công cụ & Môi trường phát triển
+## 🛠️ Công cụ sử dụng
 
 <p align="left">
   <!-- Arduino IDE -->
@@ -22,6 +22,8 @@
 
   <!-- Dev-C++ (không có icon chính thức, dùng biểu tượng thay thế là C++) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="Dev-C++"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
 
@@ -32,8 +34,3 @@
 - Facebook: https://www.facebook.com/tungvan.ng06
 - Tele: https://t.me/tongthanhtung206
 ---
-
-### 🛠️ Công cụ sử dụng:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-
