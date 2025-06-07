@@ -11,9 +11,19 @@
 
 ---
 
-## 📊 Ngôn ngữ sử dụng nhiều nhất
+## 🛠️ Công cụ & Môi trường phát triển
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TungVanNg&layout=compact&theme=tokyonight&hide=html,css,javascript)
+<p align="left">
+  <!-- Arduino IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino IDE"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+
+  <!-- Dev-C++ (không có icon chính thức, dùng biểu tượng thay thế là C++) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="Dev-C++"/>
+</p>
+
 
 ---
 
