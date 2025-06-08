@@ -1,4 +1,4 @@
-<h1 align="center">Rất vui khi bạn đã ghé thăm ^^</h1>
+<h1 align="center">Rất vui khi bạn ghé thăm ^^</h1>
 
 ### Xin chào 👋, tôi là Nguyễn Văn Tùng 👋
 
